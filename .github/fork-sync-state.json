@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-27T11:28:25.122942+00:00",
+  "upstream": "security-alliance/seal-911",
+  "upstream_branch": "main",
+  "upstream_commit": "1545e5e802a543f54c0bb5c349dec34e9b633fc0",
+  "version": 1,
+  "workflow_policy": "preserve fork workflows; never import upstream workflows"
+}
