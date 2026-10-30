@@ -2,6 +2,7 @@
 
 This is a continually evolving, albeit incomplete, public record of incidents in which SEAL 911 has played a pivotal role in their resolution.
 
+- [Trezor CryptoBilis supply chain attack](https://trezor.io/blog/news/implant-reported-in-a-trezor-sold-by-cryptobilis)
 - [DSF Finance incident resolution](https://x.com/DsfFinance/status/2113254610659913760)
 - [Ledger CryptoBilis supply chain attack](https://x.com/Ledger_Support/status/2108968264055345381)
 - [Bitget incident resolution](https://x.com/GracyBitget/status/2103235655879074084)
